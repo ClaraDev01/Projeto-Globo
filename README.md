@@ -20,6 +20,7 @@ This project is a replica of a news page inspired by the Globo portal, developed
 
 ## 📌*Project Structure*
 
+```
 📂 Globo-Project
 ├── 📄 index.html
 ├── 📄 style.css
@@ -38,6 +39,7 @@ This project is a replica of a news page inspired by the Globo portal, developed
 │   │   ├── gshow/
 │   │   │   ├── ferias-e-jh.jpeg
 │   │   │   ├── verdades-secretas-2.jpeg
+```
 
 ## 📝*Code Language*
 
