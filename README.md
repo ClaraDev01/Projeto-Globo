@@ -21,7 +21,7 @@ This project is a replica of a news page inspired by the Globo portal, developed
 ## 📌*Project Structure*
 
 ```
-📂 Globo-Project
+📂 Projeto-Globo
 ├── 📄 index.html
 ├── 📄 style.css
 ├── 📄 reset.css
