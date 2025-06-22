@@ -56,7 +56,7 @@ This is a static front-end project (HTML/CSS). To view it in your browser, you h
         ```
     * **Navigate to the project directory:**
         ```bash
-        cd Globo-Project
+        cd Projeto-Globo
         ```
     * **Open the `index.html` file in your preferred web browser.** You can do this by dragging the `index.html` file into the browser window or by double-clicking it.
 
@@ -65,7 +65,7 @@ This is a static front-end project (HTML/CSS). To view it in your browser, you h
     * With the extension installed, open the project in VS Code, right-click on the `index.html` file, and select "Open with Live Server". This will start a local server and open the project in your browser with live reloading.
 
 3.  **Host on Free Services (Like GitHub Pages):**
-    * You can host this project for free using **GitHub Pages**. Simply configure GitHub Pages to serve content from the `main` (or `master`) branch of your repository. GitHub will then generate a public link for your site (e.g., `https://YourUsername.github.io/Globo-Project/`).
+    * You can host this project for free using **GitHub Pages**. Simply configure GitHub Pages to serve content from the `main` (or `master`) branch of your repository. GitHub will then generate a public link for your site (e.g., `https://YourUsername.github.io/Projeto-Globo/`).
 
 ## 📌*Future Improvements*  
 
