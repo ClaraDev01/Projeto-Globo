@@ -11,12 +11,12 @@ This project is a replica of a news page inspired by the Globo portal, developed
 
 ## 🎯*Requirements Met*
 
-✅ *Semantic HTML5 Structure* – Clean and accessible markup  
-✅ *CSS3 Styling* – Matches the original Figma design  
-✅ *Google Fonts Usage* – Ensuring typography consistency  
-✅ *Well-Organized Code* – Follows best practices for maintainability  
-✅ *Structured Assets* – Images and icons are organized in proper directories  
-✅ *Clickable News Links* – All headlines and images must be links (they can be "fake" links, e.g., https://globo.com)  
+- ✅ *Semantic HTML5 Structure* – Clean and accessible markup  
+- ✅ *CSS3 Styling* – Matches the original Figma design  
+- ✅ *Google Fonts Usage* – Ensuring typography consistency  
+- ✅ *Well-Organized Code* – Follows best practices for maintainability  
+- ✅ *Structured Assets* – Images and icons are organized in proper directories  
+- ✅ *Clickable News Links* – All headlines and images must be links (they can be "fake" links, e.g., https://globo.com)  
 
 ## 📌*Project Structure*
 
